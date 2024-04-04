@@ -9,6 +9,10 @@ To successfully complete the tasks outlined below, you will need:
 - Familiarity with debugging techniques.
 - Access to a hosting server for deployment or the ability to use a free hosting service like [InfinityFree](https://www.infinityfree.com/).
 
+### Login Details
+Username: john_smith@gmail.com
+Password: password
+
 ## Tasks and Issues
 
 ### Issue One
